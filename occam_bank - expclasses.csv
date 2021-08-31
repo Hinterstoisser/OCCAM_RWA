@@ -1,0 +1,18 @@
+CLASS_CD,CLASS_NM,CLASS_DESC
+CGV,CENT_GOV_BNK,exposures to central governments or central banks
+RGV,REG_GOV_AUTH,exposures to regional governments or local authorities
+PSE,PUB_SECT_ENT,exposures to public sector entities
+MDB,MULTI_DEV_BNK,exposures to multilateral development banks
+IOR,INTNTL_ORG,exposures to international organisations
+INS,INSTITUTION,exposures to institutions
+COR,CORPORATE,exposures to corporates
+RET,RETAIL,retail exposures
+IMM,MORT_SEC_IMM,exposures secured by mortgages on immovable property
+DEF,DEFAULT,exposures in default
+HIR,HIGH_RISK,exposures associated with particularly high risk
+CVB,COV_BOND,exposures in the form of covered bonds
+SEC,SECURITIZ,items representing securitisation positions
+STC,ST_CRED_ASMT,exposures to institutions and corporates with a short-term credit assessment
+CIU,COLL_INV_UNDT,exposures in the form of units or shares in collective investment undertakings (‘CIUs’)
+EQU,EQUITY,equity exposures
+OTH,OTHER_ITEMS,other items
